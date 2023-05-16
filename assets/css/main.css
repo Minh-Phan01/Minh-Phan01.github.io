@@ -20,6 +20,32 @@
 	margin: 10px;
 }
 
+.half-input {
+	border: 2px solid white;
+	color: white;
+	width: 30%;
+	display: inline-block;
+}
+
+.full-input {
+	border: 2px solid white;
+	color: white;
+	width: 60%;
+	display: block;
+	margin: 0 auto;
+
+}
+
+#form-submit-btn button {
+
+	display: block;
+	box-shadow: none;
+	/* width: 60%; */
+	margin: 50px auto 0 auto;
+
+}
+
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
