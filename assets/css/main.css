@@ -2341,7 +2341,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				/* font-family: 'Font Awesome 5 Free'; */
 				font-weight: 400;
 			}
 
@@ -2586,7 +2586,7 @@ input, select, textarea {
 	}
 
 		ul.major-icons li {
-			display: inline-block;
+			display: block;
 			padding: 2.5em;
 			text-align: center;
 		}
